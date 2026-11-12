@@ -1,0 +1,8 @@
+{
+  "name": "HostelCare - Smart Hostel Complaint Management System",
+  "description": "Comprehensive hostel complaint management system with dedicated portals for Students, Wardens, and Maintenance Employees (Electrician, Plumber, Housekeeping, Wi-Fi, HVAC, Furniture). Features status tracking, photo verification, role-based workflows, and focus tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
